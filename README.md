@@ -8,3 +8,5 @@ The program listens for SIGINT to join the active threads and shutdown.
 If running in an IDE terminal like Jetbrains IDEs, the stop button on the side
 of the terminal usually sends SIGINT. Other signals will also stop the running 
 process, but not cleanly.
+
+Python v3.9
